@@ -2,8 +2,6 @@ package main
 
 import _ "main/docs"
 import "github.com/gin-gonic/gin"
-//import "github.com/swaggo/gin-swagger" // gin-swagger middleware
-//import "github.com/swaggo/files"
 
 // @title           GOlang Example RESTful API
 // @version         1.0
