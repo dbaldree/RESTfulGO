@@ -4,6 +4,7 @@ import (
         //"errors"
         //"net/http"
 
+        _ "main/docs"
         "github.com/gin-gonic/gin"
 
         swaggerFiles "github.com/swaggo/files"
