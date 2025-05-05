@@ -1,6 +1,6 @@
 package main
 
-import "main/docs"
+import _ "main/docs"
 import "github.com/gin-gonic/gin"
 import "github.com/swaggo/gin-swagger" // gin-swagger middleware
 import "github.com/swaggo/files"
